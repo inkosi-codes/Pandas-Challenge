@@ -1,6 +1,5 @@
 # Pandas-Challenge
-    The following analysis was done using pandas and jupyter notebook. In this note booko you will find all analysis based on the below criteria:
-
+The following analysis was done using pandas and jupyter notebook. In this note booko you will find all analysis based on the below criteria:
 
 ### Player Count
 
